@@ -1,0 +1,7 @@
+.ext1{
+    background-color: violet;
+    border: 2px solid red;
+}.ext2{
+    background-color: rgb(132, 13, 13);
+    border: 2px solid rgba(0, 140, 255, 0.255);
+}
